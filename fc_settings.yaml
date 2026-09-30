@@ -72,7 +72,7 @@ OUTDATE_CLEAN: 60
 CRON: "0 0,6,12,18,21 * * *"
 
 # 极简模式是否开启
-SIMPLE_MODE: false
+SIMPLE_MODE: true
 
 # 5.x以后默认为sqlite
 # 存储方式，可选项：mysql，sqlite，mongodb；默认为sqlite
