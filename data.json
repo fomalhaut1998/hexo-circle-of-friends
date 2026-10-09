@@ -1,14 +1,149 @@
 {
   "statistical_data": {
-    "friends_num": 174,
-    "active_num": 41,
-    "error_num": 133,
-    "article_num": 20,
-    "last_updated_time": "2026-10-09 20:36:26"
+    "friends_num": 213,
+    "active_num": 72,
+    "error_num": 141,
+    "article_num": 57,
+    "last_updated_time": "2026-10-10 06:17:10"
   },
   "article_data": [
     {
       "floor": 1,
+      "title": "Java 从入门到精通（十八）：工程化与性能调优实战——构建、测试、日志与诊断工具箱",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "link": "http://hexo.sjava.cn/posts/20018.html",
+      "author": "神经蛙",
+      "avatar": "https://hexo.sjava.cn/img/pic.png"
+    },
+    {
+      "floor": 2,
+      "title": "Java 从入门到精通（十七）：Java 8~21 新特性全景——Lambda、Stream、Record 与虚拟线程",
+      "created": "2026-10-25",
+      "updated": "2026-10-25",
+      "link": "http://hexo.sjava.cn/posts/20017.html",
+      "author": "神经蛙",
+      "avatar": "https://hexo.sjava.cn/img/pic.png"
+    },
+    {
+      "floor": 3,
+      "title": "Java 从入门到精通（十六）：JVM 垃圾回收与线上调优——GC 收集器、参数与 OOM 排查",
+      "created": "2026-10-24",
+      "updated": "2026-10-24",
+      "link": "http://hexo.sjava.cn/posts/20016.html",
+      "author": "神经蛙",
+      "avatar": "https://hexo.sjava.cn/img/pic.png"
+    },
+    {
+      "floor": 4,
+      "title": "Java 从入门到精通（十五）：JVM 内存结构与类加载机制——从双亲委派到对象布局",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "link": "http://hexo.sjava.cn/posts/20015.html",
+      "author": "神经蛙",
+      "avatar": "https://hexo.sjava.cn/img/pic.png"
+    },
+    {
+      "floor": 5,
+      "title": "Java 从入门到精通（十四）：线程池与异步编程——ThreadPoolExecutor、CompletableFuture 与 ForkJoin",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "link": "http://hexo.sjava.cn/posts/20014.html",
+      "author": "神经蛙",
+      "avatar": "https://hexo.sjava.cn/img/pic.png"
+    },
+    {
+      "floor": 6,
+      "title": "「10月10日」2026年最新高速10.2M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "link": "https://clashgithub.com/clashnode-20261010.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 7,
+      "title": "随便吃 v0.2.0 发布：让「随便」也能吃得明白",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "link": "https://xiaodaidai.site/2026/10/09/2026-10-09-%E9%9A%8F%E4%BE%BF%E5%90%83-v0.1.0-%E5%8F%91%E5%B8%83/",
+      "author": "xiaodaidai的博客",
+      "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
+    },
+    {
+      "floor": 8,
+      "title": "「10月09日」2026年最新高速12.8M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "link": "https://clashgithub.com/clashnode-20261009.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 9,
+      "title": "「10月08日」2026年最新高速11.9M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "link": "https://clashgithub.com/clashnode-20261008.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 10,
+      "title": "「10月07日」2026年最新高速13.3M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "link": "https://clashgithub.com/clashnode-20261007.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 11,
+      "title": "家庭网络改造（三）——IPv6",
+      "created": "2026-10-05",
+      "updated": "2026-10-06",
+      "link": "https://polar-bear.eu.org/2026/10/05/jia-ting-wang-luo-gai-zao-san-ipv6/",
+      "author": "polar-bear～Blog",
+      "avatar": "https://polar-bear.eu.org/img/hand.jpg"
+    },
+    {
+      "floor": 12,
+      "title": "「10月06日」2026年最新高速13.3M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "link": "https://clashgithub.com/clashnode-20261006.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 13,
+      "title": "博客更新：AI生图与新闻汇总功能上线",
+      "created": "2026-10-03",
+      "updated": "2026-10-03",
+      "link": "https://xiaodaidai.site/2026/10/03/2026-10-03-%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%EF%BC%9AAI%E7%94%9F%E5%9B%BE%E4%B8%8E%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF/",
+      "author": "xiaodaidai的博客",
+      "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
+    },
+    {
+      "floor": 14,
+      "title": "2026-09小记",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "link": "https://blog.storia.ren/posts/write-202609/",
+      "author": "九弦之屋",
+      "avatar": "https://blog.sinzmise.top/img/avatar.png"
+    },
+    {
+      "floor": 15,
+      "title": "Everything如何使用拼音搜索文件",
+      "created": "2026-09-29",
+      "updated": "2026-10-02",
+      "link": "https://blog.393837.xyz/posts/8d2f1c4a.html",
+      "author": "Region-Blog",
+      "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
+    },
+    {
+      "floor": 16,
       "title": "日中见斗",
       "created": "2026-08-18",
       "updated": "2026-10-01",
@@ -17,7 +152,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 2,
+      "floor": 17,
       "title": "第三根黑烛",
       "created": "2026-08-17",
       "updated": "2026-10-01",
@@ -26,7 +161,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 3,
+      "floor": 18,
       "title": "长酉",
       "created": "2026-08-10",
       "updated": "2026-10-01",
@@ -35,7 +170,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 4,
+      "floor": 19,
       "title": "斗蛐蛐2",
       "created": "2026-08-09",
       "updated": "2026-10-01",
@@ -44,7 +179,43 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 5,
+      "floor": 20,
+      "title": "Gravatar镜像源(2026年最新可用版)",
+      "created": "2026-07-17",
+      "updated": "2026-10-01",
+      "link": "https://blog.393837.xyz/posts/86ca8d9d.html",
+      "author": "Region-Blog",
+      "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
+    },
+    {
+      "floor": 21,
+      "title": "2025年最新 | 傻瓜式教学 | 如何在国家中小学智慧教育平台上下载高清电子版教材",
+      "created": "2025-04-06",
+      "updated": "2026-10-01",
+      "link": "https://blog.393837.xyz/posts/f5971e75.html",
+      "author": "Region-Blog",
+      "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
+    },
+    {
+      "floor": 22,
+      "title": "CompressO：一款极简高效的视频压缩软件",
+      "created": "2024-10-13",
+      "updated": "2026-10-01",
+      "link": "https://blog.393837.xyz/posts/17ab3bb8.html",
+      "author": "Region-Blog",
+      "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
+    },
+    {
+      "floor": 23,
+      "title": "《原神》5.1版本「命定将焚的虹光」前瞻特别节目",
+      "created": "2024-09-27",
+      "updated": "2026-10-01",
+      "link": "https://blog.393837.xyz/posts/d0093471.html",
+      "author": "Region-Blog",
+      "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
+    },
+    {
+      "floor": 24,
       "title": "2023年度总结",
       "created": "2023-12-31",
       "updated": "2026-09-27",
@@ -53,7 +224,7 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 6,
+      "floor": 25,
       "title": "上海之旅",
       "created": "2023-08-21",
       "updated": "2026-09-27",
@@ -62,7 +233,7 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 7,
+      "floor": 26,
       "title": "2022年度总结",
       "created": "2022-12-30",
       "updated": "2026-09-27",
@@ -71,7 +242,52 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 8,
+      "floor": 27,
+      "title": "在 Windows11 网易云音乐实现任务栏歌词",
+      "created": "2026-09-26",
+      "updated": "2026-09-26",
+      "link": "https://xiaodaidai.site/2026/09/26/2026-09-26-%E5%9C%A8-Windows11-%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%AE%9E%E7%8E%B0%E4%BB%BB%E5%8A%A1%E6%A0%8F%E6%AD%8C%E8%AF%8D/",
+      "author": "xiaodaidai的博客",
+      "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
+    },
+    {
+      "floor": 28,
+      "title": "何所往：梦州岁主的中秋独白",
+      "created": "2026-09-25",
+      "updated": "2026-09-25",
+      "link": "https://xiaodaidai.site/2026/09/25/2026-09-25-%E4%BD%95%E6%89%80%E5%BE%80%EF%BC%9A%E6%A2%A6%E5%B7%9E%E5%B2%81%E4%B8%BB%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%8B%AC%E7%99%BD/",
+      "author": "xiaodaidai的博客",
+      "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
+    },
+    {
+      "floor": 29,
+      "title": "Google首选来源深链实测：114个媒体站里8个把读者带进空搜索",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "link": "https://zhangwenbao.com/google-preferred-sources-deeplink-audit.html",
+      "author": "张文保的博客",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg"
+    },
+    {
+      "floor": 30,
+      "title": "Chrome CrUX广告指标实测：看不见的广告不算密度，流量照样计入",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "link": "https://zhangwenbao.com/chrome-crux-ad-metrics-audit.html",
+      "author": "张文保的博客",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg"
+    },
+    {
+      "floor": 31,
+      "title": "Cloudflare托管robots.txt下线实测：1201个站的AI训练禁令同时消失",
+      "created": "2026-09-20",
+      "updated": "2026-09-20",
+      "link": "https://zhangwenbao.com/cloudflare-managed-robots-txt-removal-audit.html",
+      "author": "张文保的博客",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg"
+    },
+    {
+      "floor": 32,
       "title": "好好活着",
       "created": "2026-09-19",
       "updated": "2026-09-19",
@@ -80,7 +296,25 @@
       "avatar": "https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 9,
+      "floor": 33,
+      "title": "商品评分四个数对不上，AI拿走的是商家自己填的那一个",
+      "created": "2026-09-19",
+      "updated": "2026-09-19",
+      "link": "https://zhangwenbao.com/ai-shopper-review-source-rating-gap-audit.html",
+      "author": "张文保的博客",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg"
+    },
+    {
+      "floor": 34,
+      "title": "谷歌AI贡献付费试点：钱算上了Gemini应用，报告和开关都没有这一格",
+      "created": "2026-09-19",
+      "updated": "2026-09-19",
+      "link": "https://zhangwenbao.com/google-ai-contribution-pilot-coverage-audit.html",
+      "author": "张文保的博客",
+      "avatar": "https://zhangwenbao.com/img/paul.jpg"
+    },
+    {
+      "floor": 35,
       "title": "KeyVault 键帽盒",
       "created": "2026-09-12",
       "updated": "2026-09-12",
@@ -89,7 +323,25 @@
       "avatar": "https://cdn.staticaly.com/gh/1405720461/images@master/img/188.jpg"
     },
     {
-      "floor": 10,
+      "floor": 36,
+      "title": "2026-08小记",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "link": "https://blog.storia.ren/posts/write-202608/",
+      "author": "九弦之屋",
+      "avatar": "https://blog.sinzmise.top/img/avatar.png"
+    },
+    {
+      "floor": 37,
+      "title": "鸣潮网传剧情七言判词赏析",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "link": "https://xiaodaidai.site/2026/09/02/2026-09-02-%E9%B8%A3%E6%BD%AE%E7%BD%91%E4%BC%A0%E5%89%A7%E6%83%85%E4%B8%83%E8%A8%80%E5%88%A4%E8%AF%8D%E8%B5%8F%E6%9E%90/",
+      "author": "xiaodaidai的博客",
+      "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
+    },
+    {
+      "floor": 38,
       "title": "Butterfly主题魔改样式查阅(魔改篇)",
       "created": "2026-06-20",
       "updated": "2026-08-30",
@@ -98,7 +350,7 @@
       "avatar": "https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 11,
+      "floor": 39,
       "title": "如何利用 WorkBuddy 进行持久化",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -107,7 +359,52 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 12,
+      "floor": 40,
+      "title": "ZL-综合插件使用说明",
+      "created": "2026-08-30",
+      "updated": "2026-08-30",
+      "link": "https://blog.zxiaolin.com/archives/zl-%E7%BB%BC%E5%90%88%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E",
+      "author": "小林酱博客",
+      "avatar": "https://cdn.zxiaolin.com/imgas/humuziwt.png"
+    },
+    {
+      "floor": 41,
+      "title": "2026年8月记事",
+      "created": "2026-08-03",
+      "updated": "2026-08-26",
+      "link": "https://blog.cancin.cn/post/44a81f90.html",
+      "author": "南方嘉木",
+      "avatar": "https://blog.cancin.cn/img/avatar.webp"
+    },
+    {
+      "floor": 42,
+      "title": "科研skill记录",
+      "created": "2026-08-17",
+      "updated": "2026-08-26",
+      "link": "http://example.com/post/%E7%A7%91%E7%A0%94skill%E8%AE%B0%E5%BD%95.html",
+      "author": "Yesord",
+      "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
+    },
+    {
+      "floor": 43,
+      "title": "科研工具软件推荐",
+      "created": "2025-11-18",
+      "updated": "2026-08-26",
+      "link": "http://example.com/post/%E7%A7%91%E7%A0%94%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.html",
+      "author": "Yesord",
+      "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
+    },
+    {
+      "floor": 44,
+      "title": "计算成像发展研究",
+      "created": "2025-11-02",
+      "updated": "2026-08-26",
+      "link": "http://example.com/post/%E8%AE%A1%E7%AE%97%E6%88%90%E5%83%8F%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6.html",
+      "author": "Yesord",
+      "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
+    },
+    {
+      "floor": 45,
       "title": "Verify Before Retry",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -116,7 +413,34 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 13,
+      "floor": 46,
+      "title": "四非保研资料整理与分享",
+      "created": "2025-11-18",
+      "updated": "2026-08-24",
+      "link": "http://example.com/post/%E5%9B%9B%E9%9D%9E%E4%BF%9D%E7%A0%94%E7%AE%80%E5%8E%86PPT%E6%A8%A1%E6%9D%BF%E5%88%86%E4%BA%AB.html",
+      "author": "Yesord",
+      "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
+    },
+    {
+      "floor": 47,
+      "title": "Office破解方法",
+      "created": "2025-10-09",
+      "updated": "2026-08-24",
+      "link": "http://example.com/post/Office%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95.html",
+      "author": "Yesord",
+      "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
+    },
+    {
+      "floor": 48,
+      "title": "从零开始，打造属于自己的桌面 —— Uniquenium 开发手记",
+      "created": "2026-08-24",
+      "updated": "2026-08-24",
+      "link": "https://blog.qyadbr.top/posts/954e5fb1",
+      "author": "Admibrill",
+      "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
+    },
+    {
+      "floor": 49,
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-01",
       "updated": "2026-08-13",
@@ -125,7 +449,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 14,
+      "floor": 50,
       "title": "Butterfly 5.6 更新日誌",
       "created": "2026-07-16",
       "updated": "2026-08-13",
@@ -134,7 +458,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 15,
+      "floor": 51,
       "title": "香港銀行開戶推薦 （附邀請碼）",
       "created": "2026-06-30",
       "updated": "2026-08-13",
@@ -143,7 +467,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 16,
+      "floor": 52,
       "title": "Butterfly 5.5 更新日誌",
       "created": "2025-09-09",
       "updated": "2026-08-13",
@@ -152,7 +476,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 17,
+      "floor": 53,
       "title": "Butterfly 5.4 更新日誌",
       "created": "2025-07-04",
       "updated": "2026-08-13",
@@ -161,7 +485,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 18,
+      "floor": 54,
       "title": "Rust Async 初学相关基础概念",
       "created": "2026-08-12",
       "updated": "2026-08-12",
@@ -170,7 +494,7 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 19,
+      "floor": 55,
       "title": "Rust 中的可变性、引用和指针",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -179,13 +503,22 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 20,
+      "floor": 56,
       "title": "从零搓一个 B 站字幕提取工具",
       "created": "2026-08-10",
       "updated": "2026-08-10",
       "link": "https://www.trtyr.top/posts/bilibili-subtitle-workflow/",
       "author": "Trtyr’s Blog",
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
+    },
+    {
+      "floor": 57,
+      "title": "htb-DarkZeroReturn",
+      "created": "2026-08-10",
+      "updated": "2026-08-10",
+      "link": "https://blog.s1rius.space/2026/08/htb-DarkZeroReturns/",
+      "author": "s1rius' blog",
+      "avatar": "https://s1rius.space/img/custom/avatar.webp"
     }
   ]
 }
