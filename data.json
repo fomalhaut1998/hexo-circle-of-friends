@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 213,
-    "active_num": 71,
-    "error_num": 142,
-    "article_num": 55,
-    "last_updated_time": "2026-10-11 01:03:20"
+    "active_num": 70,
+    "error_num": 143,
+    "article_num": 56,
+    "last_updated_time": "2026-10-11 05:11:21"
   },
   "article_data": [
     {
@@ -54,6 +54,15 @@
     },
     {
       "floor": 6,
+      "title": "「10月11日」2026年最新高速10.2M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
+      "created": "2026-10-10",
+      "updated": "2026-10-10",
+      "link": "https://clashgithub.com/clashnode-20261011.html",
+      "author": "clash免费节点",
+      "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
+    },
+    {
+      "floor": 7,
       "title": "「10月10日」2026年最新高速10.2M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
       "created": "2026-10-09",
       "updated": "2026-10-09",
@@ -62,7 +71,7 @@
       "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
     },
     {
-      "floor": 7,
+      "floor": 8,
       "title": "随便吃 v0.2.0 发布：让「随便」也能吃得明白",
       "created": "2026-10-09",
       "updated": "2026-10-09",
@@ -71,7 +80,7 @@
       "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
     },
     {
-      "floor": 8,
+      "floor": 9,
       "title": "「10月09日」2026年最新高速12.8M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
       "created": "2026-10-08",
       "updated": "2026-10-08",
@@ -80,7 +89,7 @@
       "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
     },
     {
-      "floor": 9,
+      "floor": 10,
       "title": "「10月08日」2026年最新高速11.9M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
       "created": "2026-10-07",
       "updated": "2026-10-07",
@@ -89,7 +98,7 @@
       "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
     },
     {
-      "floor": 10,
+      "floor": 11,
       "title": "「10月07日」2026年最新高速13.3M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
       "created": "2026-10-06",
       "updated": "2026-10-06",
@@ -98,7 +107,7 @@
       "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
     },
     {
-      "floor": 11,
+      "floor": 12,
       "title": "家庭网络改造（三）——IPv6",
       "created": "2026-10-05",
       "updated": "2026-10-06",
@@ -107,7 +116,7 @@
       "avatar": "https://polar-bear.eu.org/img/hand.jpg"
     },
     {
-      "floor": 12,
+      "floor": 13,
       "title": "「10月06日」2026年最新高速13.3M/S免费节点，免费公益SSR/Shadowrocket/Clash节点/v2ray节点|免费订阅|免费梯子|免费机场",
       "created": "2026-10-05",
       "updated": "2026-10-05",
@@ -116,7 +125,7 @@
       "avatar": "https://clashgithub.com/wp-content/uploads/avatar.png"
     },
     {
-      "floor": 13,
+      "floor": 14,
       "title": "博客更新：AI生图与新闻汇总功能上线",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -125,7 +134,7 @@
       "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
     },
     {
-      "floor": 14,
+      "floor": 15,
       "title": "2026-09小记",
       "created": "2026-10-02",
       "updated": "2026-10-02",
@@ -134,7 +143,7 @@
       "avatar": "https://blog.sinzmise.top/img/avatar.png"
     },
     {
-      "floor": 15,
+      "floor": 16,
       "title": "Everything如何使用拼音搜索文件",
       "created": "2026-09-29",
       "updated": "2026-10-02",
@@ -143,7 +152,7 @@
       "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
     },
     {
-      "floor": 16,
+      "floor": 17,
       "title": "日中见斗",
       "created": "2026-08-18",
       "updated": "2026-10-01",
@@ -152,7 +161,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 17,
+      "floor": 18,
       "title": "第三根黑烛",
       "created": "2026-08-17",
       "updated": "2026-10-01",
@@ -161,7 +170,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 18,
+      "floor": 19,
       "title": "长酉",
       "created": "2026-08-10",
       "updated": "2026-10-01",
@@ -170,7 +179,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "斗蛐蛐2",
       "created": "2026-08-09",
       "updated": "2026-10-01",
@@ -179,7 +188,7 @@
       "avatar": "https://blog.NBplus.eu.org/img/author.jpg"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "Gravatar镜像源(2026年最新可用版)",
       "created": "2026-07-17",
       "updated": "2026-10-01",
@@ -188,7 +197,7 @@
       "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "2025年最新 | 傻瓜式教学 | 如何在国家中小学智慧教育平台上下载高清电子版教材",
       "created": "2025-04-06",
       "updated": "2026-10-01",
@@ -197,7 +206,7 @@
       "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "CompressO：一款极简高效的视频压缩软件",
       "created": "2024-10-13",
       "updated": "2026-10-01",
@@ -206,7 +215,7 @@
       "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "《原神》5.1版本「命定将焚的虹光」前瞻特别节目",
       "created": "2024-09-27",
       "updated": "2026-10-01",
@@ -215,7 +224,7 @@
       "avatar": "https://cdn.393837.xyz/img/vr6dCKNEtUwPYOBUi7GR.avif"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "2023年度总结",
       "created": "2023-12-31",
       "updated": "2026-09-27",
@@ -224,7 +233,7 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "上海之旅",
       "created": "2023-08-21",
       "updated": "2026-09-27",
@@ -233,7 +242,7 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "2022年度总结",
       "created": "2022-12-30",
       "updated": "2026-09-27",
@@ -242,7 +251,7 @@
       "avatar": "https://wsbblog.cn/img/wsb.webp"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "在 Windows11 网易云音乐实现任务栏歌词",
       "created": "2026-09-26",
       "updated": "2026-09-26",
@@ -251,7 +260,7 @@
       "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "何所往：梦州岁主的中秋独白",
       "created": "2026-09-25",
       "updated": "2026-09-25",
@@ -260,7 +269,7 @@
       "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "Google首选来源深链实测：114个媒体站里8个把读者带进空搜索",
       "created": "2026-09-22",
       "updated": "2026-09-22",
@@ -269,7 +278,7 @@
       "avatar": "https://zhangwenbao.com/img/paul.jpg"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "Chrome CrUX广告指标实测：看不见的广告不算密度，流量照样计入",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -278,7 +287,7 @@
       "avatar": "https://zhangwenbao.com/img/paul.jpg"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "Cloudflare托管robots.txt下线实测：1201个站的AI训练禁令同时消失",
       "created": "2026-09-20",
       "updated": "2026-09-20",
@@ -287,7 +296,7 @@
       "avatar": "https://zhangwenbao.com/img/paul.jpg"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "好好活着",
       "created": "2026-09-19",
       "updated": "2026-09-19",
@@ -296,7 +305,7 @@
       "avatar": "https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 33,
+      "floor": 34,
       "title": "商品评分四个数对不上，AI拿走的是商家自己填的那一个",
       "created": "2026-09-19",
       "updated": "2026-09-19",
@@ -305,7 +314,7 @@
       "avatar": "https://zhangwenbao.com/img/paul.jpg"
     },
     {
-      "floor": 34,
+      "floor": 35,
       "title": "谷歌AI贡献付费试点：钱算上了Gemini应用，报告和开关都没有这一格",
       "created": "2026-09-19",
       "updated": "2026-09-19",
@@ -314,7 +323,7 @@
       "avatar": "https://zhangwenbao.com/img/paul.jpg"
     },
     {
-      "floor": 35,
+      "floor": 36,
       "title": "KeyVault 键帽盒",
       "created": "2026-09-12",
       "updated": "2026-09-12",
@@ -323,7 +332,7 @@
       "avatar": "https://cdn.staticaly.com/gh/1405720461/images@master/img/188.jpg"
     },
     {
-      "floor": 36,
+      "floor": 37,
       "title": "2026-08小记",
       "created": "2026-09-04",
       "updated": "2026-09-04",
@@ -332,7 +341,7 @@
       "avatar": "https://blog.sinzmise.top/img/avatar.png"
     },
     {
-      "floor": 37,
+      "floor": 38,
       "title": "鸣潮网传剧情七言判词赏析",
       "created": "2026-09-02",
       "updated": "2026-09-02",
@@ -341,7 +350,7 @@
       "avatar": "https://static.xiaodaidai.site/assets/picture/%E5%A4%B4%E5%83%8F%E8%83%8C%E9%9D%A2.jpeg"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "Butterfly主题魔改样式查阅(魔改篇)",
       "created": "2026-06-20",
       "updated": "2026-08-30",
@@ -350,7 +359,7 @@
       "avatar": "https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png"
     },
     {
-      "floor": 39,
+      "floor": 40,
       "title": "如何利用 WorkBuddy 进行持久化",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -359,7 +368,7 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 40,
+      "floor": 41,
       "title": "ZL-综合插件使用说明",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -368,7 +377,7 @@
       "avatar": "https://cdn.zxiaolin.com/imgas/humuziwt.png"
     },
     {
-      "floor": 41,
+      "floor": 42,
       "title": "2026年8月记事",
       "created": "2026-08-03",
       "updated": "2026-08-26",
@@ -377,7 +386,7 @@
       "avatar": "https://blog.cancin.cn/img/avatar.webp"
     },
     {
-      "floor": 42,
+      "floor": 43,
       "title": "科研skill记录",
       "created": "2026-08-17",
       "updated": "2026-08-26",
@@ -386,7 +395,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 43,
+      "floor": 44,
       "title": "科研工具软件推荐",
       "created": "2025-11-18",
       "updated": "2026-08-26",
@@ -395,7 +404,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 44,
+      "floor": 45,
       "title": "计算成像发展研究",
       "created": "2025-11-02",
       "updated": "2026-08-26",
@@ -404,7 +413,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 45,
+      "floor": 46,
       "title": "Verify Before Retry",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -413,7 +422,7 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 46,
+      "floor": 47,
       "title": "四非保研资料整理与分享",
       "created": "2025-11-18",
       "updated": "2026-08-24",
@@ -422,7 +431,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 47,
+      "floor": 48,
       "title": "Office破解方法",
       "created": "2025-10-09",
       "updated": "2026-08-24",
@@ -431,7 +440,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 48,
+      "floor": 49,
       "title": "从零开始，打造属于自己的桌面 —— Uniquenium 开发手记",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -440,7 +449,7 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "floor": 49,
+      "floor": 50,
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-01",
       "updated": "2026-08-13",
@@ -449,7 +458,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 50,
+      "floor": 51,
       "title": "Butterfly 5.6 更新日誌",
       "created": "2026-07-16",
       "updated": "2026-08-13",
@@ -458,7 +467,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 51,
+      "floor": 52,
       "title": "香港銀行開戶推薦 （附邀請碼）",
       "created": "2026-06-30",
       "updated": "2026-08-13",
@@ -467,7 +476,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 52,
+      "floor": 53,
       "title": "Butterfly 5.5 更新日誌",
       "created": "2025-09-09",
       "updated": "2026-08-13",
@@ -476,7 +485,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 53,
+      "floor": 54,
       "title": "Butterfly 5.4 更新日誌",
       "created": "2025-07-04",
       "updated": "2026-08-13",
@@ -485,7 +494,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 54,
+      "floor": 55,
       "title": "Rust Async 初学相关基础概念",
       "created": "2026-08-12",
       "updated": "2026-08-12",
@@ -494,7 +503,7 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 55,
+      "floor": 56,
       "title": "Rust 中的可变性、引用和指针",
       "created": "2026-08-11",
       "updated": "2026-08-11",
