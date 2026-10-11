@@ -3,8 +3,8 @@
     "friends_num": 213,
     "active_num": 70,
     "error_num": 143,
-    "article_num": 56,
-    "last_updated_time": "2026-10-11 12:05:57"
+    "article_num": 55,
+    "last_updated_time": "2026-10-11 20:08:34"
   },
   "article_data": [
     {
@@ -387,15 +387,6 @@
     },
     {
       "floor": 43,
-      "title": "2026年8月记事",
-      "created": "2026-08-03",
-      "updated": "2026-08-26",
-      "link": "https://blog.cancin.cn/post/44a81f90.html",
-      "author": "南方嘉木",
-      "avatar": "https://blog.cancin.cn/img/avatar.webp"
-    },
-    {
-      "floor": 44,
       "title": "科研skill记录",
       "created": "2026-08-17",
       "updated": "2026-08-26",
@@ -404,7 +395,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 45,
+      "floor": 44,
       "title": "科研工具软件推荐",
       "created": "2025-11-18",
       "updated": "2026-08-26",
@@ -413,7 +404,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 46,
+      "floor": 45,
       "title": "计算成像发展研究",
       "created": "2025-11-02",
       "updated": "2026-08-26",
@@ -422,7 +413,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 47,
+      "floor": 46,
       "title": "Verify Before Retry",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -431,7 +422,7 @@
       "avatar": "https://img.trtyr.top/LightPicture/2023/03/head.webp"
     },
     {
-      "floor": 48,
+      "floor": 47,
       "title": "四非保研资料整理与分享",
       "created": "2025-11-18",
       "updated": "2026-08-24",
@@ -440,7 +431,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 49,
+      "floor": 48,
       "title": "Office破解方法",
       "created": "2025-10-09",
       "updated": "2026-08-24",
@@ -449,7 +440,7 @@
       "avatar": "https://s2.loli.net/2023/10/17/4GK2m3UkXztog9D.jpg"
     },
     {
-      "floor": 50,
+      "floor": 49,
       "title": "从零开始，打造属于自己的桌面 —— Uniquenium 开发手记",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -458,7 +449,7 @@
       "avatar": "https://source-admibrill.pages.dev/file/f69c9c86b22cb90df18a1.png"
     },
     {
-      "floor": 51,
+      "floor": 50,
       "title": "Butterfly 移除內建 APlayer / Meting 後的替代方法",
       "created": "2026-08-01",
       "updated": "2026-08-13",
@@ -467,7 +458,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 52,
+      "floor": 51,
       "title": "Butterfly 5.6 更新日誌",
       "created": "2026-07-16",
       "updated": "2026-08-13",
@@ -476,7 +467,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 53,
+      "floor": 52,
       "title": "香港銀行開戶推薦 （附邀請碼）",
       "created": "2026-06-30",
       "updated": "2026-08-13",
@@ -485,7 +476,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 54,
+      "floor": 53,
       "title": "Butterfly 5.5 更新日誌",
       "created": "2025-09-09",
       "updated": "2026-08-13",
@@ -494,7 +485,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 55,
+      "floor": 54,
       "title": "Butterfly 5.4 更新日誌",
       "created": "2025-07-04",
       "updated": "2026-08-13",
@@ -503,7 +494,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 56,
+      "floor": 55,
       "title": "Rust Async 初学相关基础概念",
       "created": "2026-08-12",
       "updated": "2026-08-12",
